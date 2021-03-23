@@ -1,0 +1,18 @@
+Value,Info
+Not applicable,No stone artefacts observed
+Basalt,"Fine grained igneous rock, very common, often dark in colour, no other mineral inclusions, and sometimes with caviities "
+Chalcedony,"Hard, fine grained material composed of very small silica crystals, highly variable in colour. Unlike chert, chalcedony has a fibrous structure with fine intergrowths of quartz and often has a waxy lustre and is often semi-transparent or translucent"
+Chert,"Hard, fine grained material composed of very small silica crystals, highly variable in colour, and unlike chalcedony, lacks transparent or transluscent qualities"
+Glass,Manufactured glass used as a raw material. 
+Ironstone,"Sedimentary rock, with substantial proportion of iron creating a reddish appearance on outer surface but internally is typically grey. Very hard material with poor flaking properties"
+Mudstone,"Very fine grained and at times quite soft sedimentary rock encompassing mudstone, siltstone and claystone. Not prone to lamination"
+Quartz--clear,"Clear, colourless and transparent or translucent material composed of silica"
+Quartz--milky,"White or milky-coloured material composed of silica, but lacks transparency of clear quartz"
+Quartzite,"Hard, non-foliated rock derived from quartz sandstone and metamorphosed, varying in colour depending on presence of other minerals, but typically white, grey, pink or red due to iron oxides. Quartz grains are cemented together to such an extent that fractures break through grain boundaries, rather than around them. Grainy or glassy appearance, but often excellent flaking properties"
+Sandstone,"A clastic sedimentary rock, typically of sand-sized mineral particles or rock fragments, often quartz and feldspar"
+Shale,"Very fine grained sedimentary rock, but unlike mudstones, is prone to lamination"
+Silcrete--general,"Hard, resistant material that can appear simiilar to quartzite but results from the dissolution of silica and its resolidification as a cement, along with other detrital materials. As a result, silcrete has a highly variable grain size but grains are usually evident and, unlike quartzite, fractures will break around grain boundaries. If confident in classification, please select specific silcrete type"
+Silcrete-microcrystalline,"Silcrete, very fine grained with almost no visible grains, and scattered quartz clasts"
+Silcrete–fine grained,"Silcrete, ,mostly fine-sand-sized grains (&lt;0.25mm)"
+Silcrete-medium grained,"Silcrete, mostly medium-sand-sized quartz clasts (0.25-0.5 mm) in a siliceous matrix, with sand grains easily visible. Coarser silcrete varieties tend to have poor flaking qualities, so consider whether this material is quarztite"
+Other,Describe in annotation

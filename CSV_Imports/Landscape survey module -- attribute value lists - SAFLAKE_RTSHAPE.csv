@@ -1,0 +1,6 @@
+Value,Info
+No retouch,No retouch present
+Concave,"In plan view, the retouched margins is concave -- typically on a lateral margin"
+Convex,"In plan view, the retouched margin is convex"
+Straight,"In plan view, the retouched margin in mostly straight"
+Irregular,"In plan view, the retouched margin features a combination of edge-shapes"

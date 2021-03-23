@@ -1,0 +1,5 @@
+Values,info
+None,No heating elements were observed
+Rare,Heating elements are distributed across less than 30% of the feature
+Moderate,Heating elements are distributed across 30–70% of the feature
+Frequent,Heating elements are distributed across more than 70% of the feature

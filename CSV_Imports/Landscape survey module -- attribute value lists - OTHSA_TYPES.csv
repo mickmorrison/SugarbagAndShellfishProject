@@ -1,0 +1,12 @@
+Values,info
+Core,"Any core type, from which flakes have been detached"
+Anvil,"A stone used as a base on which other materials can be hammered or pounded, for example, bipolar flake production, or for cracking seeds "
+Hammerstone,"A stone used to detach flakes from a core, with evidence of pitting created through impact"
+Muller,"The top stone used in conjunction with a grindstone, which is used to grind seeds, ochre, or other materials"
+Grindstone,"The base stone or slab used in conjunction with a muller to grind seeds, ochre, or other materials"
+Edgeground,"An edge-ground implement, featuring a distinctive modified distal margin, used for chopping or cutting tasks"
+Manuport,"A stone within an archaeological assemblage or landscape setting where such stone does not occur naturally, and thus, must have been moved by humans. If this shows evidence of utilisation, select another category"
+Pounder,"An implement used to crack or crush other materials, typically vegetable materials. Can be difficult to distinguish from hammerstones"
+Ochre,"Soft, clay-earth pigment composed of ferric oxide, clay and sand, ranging from deep orange to brown in colour"
+Multifunction,A stone used for at least two purposes (e.g. a core utilised for pounding). Complete all relevant fields below
+Other,Other stone materials utilised by people (e.g hearth stones)

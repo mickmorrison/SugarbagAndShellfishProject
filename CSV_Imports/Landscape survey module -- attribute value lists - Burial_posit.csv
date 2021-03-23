@@ -1,0 +1,10 @@
+Values,Info
+Indeterminate,Burial orientation not able to be determined
+Disarticulated,Disarticulated remains
+Buried,No skeletal remains observable
+Ext_FD,"Extended, face down"
+Ext_FU,"Extended, face up"
+Flex_UP,"Flexed, upright position (head up)"
+Flex_SIDE,"Flexed, on side"
+Tree,"Tree burial, bundle"
+Other,Other burial types
