@@ -5,27 +5,28 @@
 
 # Please note the license applied to this code.
 
+# Acknowledgments. 
+
 # Mick Morrison, UNE 2021
 
+#Trythis, https://www.dataquest.io/blog/load-clean-data-r-tidyverse/ to see if that will do what I need, ie. load multiple CSVs as individual data.frames
+
 # Set the working directory
-setwd("~/cloudstor/Shared/ProjectArchiveLP170100050/Datasets/SugarbagAndShellfishProject")
-
-# Clear the Global Environment from previous session, data, values and functions
-rm(list = ls())
-rm(list = lsf.str())
+setwd("~/cloudstor/Shared/ProjectArchiveLP170100050/Datasets/SugarbagAndShellfishProject/CSV_Imports")
 
 
+#Load libraries
+library(tidyverse)
+
+melt_csv()
+
+tbl <- 
+  list.files(pattern = "*.csv") %>%
+  map_df(~melt_csv(.))
 
 
+help()
+rm(tbl)
+rm()
 
-
-
-rm(mydir)
-
-#Load the packages needed
-library(plyr)
-library(readr)
-
-CSV = "CSV_Imports"
-myfiles = list.files(path=mydir, pattern="*.csv", full.names=TRUE)
-myfiles
+help(readr)
